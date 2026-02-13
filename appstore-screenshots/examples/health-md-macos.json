@@ -1,0 +1,45 @@
+{
+  "platform": "macos",
+  "theme": {
+    "accentColor": "#9B72CF",
+    "font": "JetBrains Mono",
+    "fontUrl": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap",
+    "backgroundColor": "#000000",
+    "textColor": "#f5f5f7",
+    "subtitleColor": "#86868b",
+    "frameColor": "dark"
+  },
+  "output": {
+    "width": 2880,
+    "height": 1800,
+    "prefix": "appstore-mac-slide"
+  },
+  "slides": [
+    {
+      "layout": "text-left",
+      "headline": "Health{.md}",
+      "subtitle": "Your Apple Health data\non your Mac. Private.\nSynced. Automated.",
+      "screenshot": "mac-home.png",
+      "headlineSize": 96,
+      "subtitleSize": 34
+    },
+    {
+      "layout": "text-right",
+      "headline": "{Sync}\nfrom iPhone",
+      "subtitle": "Peer-to-peer sync brings\nyour health data to Mac\nover local network.",
+      "screenshot": "mac-sync.png"
+    },
+    {
+      "layout": "text-left",
+      "headline": "Export\n{Formats}",
+      "subtitle": "Markdown, Obsidian Bases,\nCSV — your data, your way.",
+      "screenshot": "mac-export.png"
+    },
+    {
+      "layout": "text-right",
+      "headline": "Fully\n{Native}",
+      "subtitle": "Built for macOS.\nKeyboard shortcuts,\nmenu bar, dark mode.",
+      "screenshot": "mac-settings.png"
+    }
+  ]
+}

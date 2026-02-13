@@ -1,0 +1,58 @@
+{
+  "theme": {
+    "accentColor": "#9B72CF",
+    "font": "JetBrains Mono",
+    "fontUrl": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap",
+    "backgroundColor": "#000000",
+    "textColor": "#f5f5f7",
+    "subtitleColor": "#86868b",
+    "frameColor": "dark"
+  },
+  "output": {
+    "width": 1242,
+    "height": 2688,
+    "prefix": "appstore-slide"
+  },
+  "slides": [
+    {
+      "layout": "text-top",
+      "headline": "Health{.md}",
+      "subtitle": "Export your Apple Health data\nto markdown. On-device.\nPrivate. Automated.",
+      "screenshot": "IMG_2564.PNG",
+      "headlineSize": 112,
+      "subtitleSize": 38
+    },
+    {
+      "layout": "text-bottom",
+      "headline": "{Schedule}\nExports",
+      "subtitle": "Configure daily or weekly\nexports of your health data.",
+      "screenshot": "IMG_2568.PNG"
+    },
+    {
+      "layout": "text-top",
+      "headline": "Export\n{Formats}",
+      "subtitle": "Supports Obsidian Bases, csv,\nand selectable data types.",
+      "screenshot": "IMG_2569.PNG"
+    },
+    {
+      "layout": "text-bottom",
+      "headline": "{Metrics}",
+      "subtitle": "Sleep, activity, heart,\nvitals, body & more.",
+      "screenshot": "IMG_2570.PNG",
+      "bigNumber": "168",
+      "bigNumberSize": 150
+    },
+    {
+      "layout": "text-top",
+      "headline": "Fully\n{Customizable}",
+      "subtitle": "Date formats, units,\ntemplates & frontmatter.",
+      "screenshot": "IMG_2572.PNG"
+    },
+    {
+      "layout": "text-bottom",
+      "headline": "Smart\n{Folders}",
+      "subtitle": "Organize by year, month,\nor custom paths.",
+      "screenshot": "IMG_2566.PNG"
+    }
+  ]
+}
